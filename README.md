@@ -1,5 +1,16 @@
 # Introdução Machine Learning
 
+  Neste projeto estou colocando dados num modelo de Machine Learning pra ver se ele é capaz de prever o tipo de tinto que é a saída (tinto ou branco).
+
+  Logo abaixo eu explico um passo a passo que eu segui...:
+
+---
+
+<div style="text-align: center">
+  
+  ![Passo a passo ML](./img/Trilha) 
+</div>
+
   Antes de começar qualquer projeto é necessário, sempre, se questionar "qual resposta está buscando?". Com Machine Learning não é diferente, saber seu objetivo é o primeiro passo
 para começar este trabalho.
 
@@ -22,3 +33,9 @@ invés de aprender as regras subjacentes. Isso leva a um bom desempenho nos dado
 
 <i>Underfitting</i>: quando o modelo é muito simples e não consegue capturar as relações complexas nos dados. Isso leva a um mau desempenho tanto nos dados de treinamento quanto nos 
 dados de teste.
+
+---
+
+<b>Fontes</b>: 
+ - https://www.youtube.com/watch?v=6Uu6zo0xoig&list=PLyqOvdQmGdTSqkutrKDaVJlEv-ui1MyK4&index=5
+ - https://medium.com/camilawaltrick/introducao-machine-learning-o-que-e-tipos-de-aprendizado-de-maquina-445dcfb708f0
